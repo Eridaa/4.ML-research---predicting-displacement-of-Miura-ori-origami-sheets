@@ -1,9 +1,10 @@
-#Predicting-displacement-of-Miura-ori-origami-sheets
+# Predicting-displacement-of-Miura-ori-origami-sheets
 
 ![image](https://user-images.githubusercontent.com/97359144/190467741-ceb9eb1b-5887-4efe-a85a-358b839a4296.png)
 
 
- INTRODUCTION
+INTRODUCTION
+ 
 Mechanical metamaterials are artificial structures with mechanical properties defined by their structure and material,  rather than their composition. They exhibit properties not found in natural materials, such as a negative Poisson’s ratio.
 
 Origami Metamaterials combine the japanese art of paper folding to create metamaterials that have properties derived from both the properties of the sheet material and geometric arrangement of the folding. The physical properties of origami metamaterials, in particular the Miura-Ori fold, have been recently researched. These metamaterials can be used for a variety of applications in the realm of product design including soft robotics, aerospace, civil engineering structures, and safety equipment.
