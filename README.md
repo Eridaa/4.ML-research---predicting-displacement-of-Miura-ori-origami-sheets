@@ -1,4 +1,4 @@
-# ML-research---predicting-displacement-of-Miura-ori-origami-sheets
+#Predicting-displacement-of-Miura-ori-origami-sheets
 
 ![image](https://user-images.githubusercontent.com/97359144/190467741-ceb9eb1b-5887-4efe-a85a-358b839a4296.png)
 
@@ -16,3 +16,9 @@ In this project we will try to predict the displacement of Miura-Ori based origa
 
 
 Process
+
+
+
+more info on: https://www.iaacblog.com/programs/predicting-displacement-of-origami-metamaterials/
+
+Predicting displacement of Origami Metamaterials is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master in Advanced Computation for Architecture & Design 2021/22 by students: Oluwadamilola Akinniyi, Erida Bendo  and faculty: Gabriella Rossi and Hesham Shawqy.
